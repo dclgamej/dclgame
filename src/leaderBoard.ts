@@ -205,10 +205,9 @@ export class LeaderBoard extends Entity {
       // update existing board
       for (let i = 0; i < length; i++) {
 
-        if (i > scoreData.length) continue
-    
-          scoreBoardNames[i].getComponent(TextShape).value = '-'
-          scoreBoardValues[i].getComponent(TextShape).value = '-'
+          if (i > scoreData.length) continue
+        scoreBoardNames[i].getComponent(TextShape).value = scoreData[i].name
+        scoreBoardValues[i].getComponent(TextShape).value = scoreData[i].score
 
       }
     }
