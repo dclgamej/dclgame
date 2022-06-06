@@ -1,7 +1,7 @@
 # Coin Collecter
 _dcl gamejam game_
 
-![demo](https://github.com/dclgamej/dclgame/screenshots/sc1.png)
+!(https://github.com/dclgamej/dclgame/blob/main/screenshots/sc1.png)
 
 ## Description
 CoinCollector its round's game based on WSS sync between player. One winner, who collect max coins in round take first place and get portal to the floor of the winners! Lets go!
@@ -10,11 +10,11 @@ CoinCollector its round's game based on WSS sync between player. One winner, who
 
 Collect coins on the round map. the player who collects the most coins its round's winner and get access to the prize floor. Good Luck!
 
-![demo](https://github.com/dclgamej/dclgame/screenshots/sc2.png)
+!(https://github.com/dclgamej/dclgame/blob/main/screenshots/sc2.png)
 Rounds Wheel Information
 Each round starts every few minutes. To Sync, you must be in percel in Sync Time. Registration will available only for sync players.
 
-![demo](https://github.com/dclgamej/dclgame/screenshots/sc3.png)
+!(https://github.com/dclgamej/dclgame/blob/main/screenshots/sc4.png)
 You are a winner!
 This game was made for DCL GAMEJAM in real case the game's prize will be POAP token.
 
